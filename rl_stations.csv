@@ -1,0 +1,23 @@
+stop_id,stop_code,stop_name,stop_desc,platform_code,platform_name,stop_lat,stop_lon,zone_id,stop_address,stop_url,level_id,location_type,parent_station,wheelchair_boarding,municipality,on_street,at_street,vehicle_type
+70061,70061.0,Alewife,Alewife - Red Line,,Red Line,42.395428,-71.142483,RapidTransit,,https://www.mbta.com/stops/place-alfcl,level_-2_platform,0,place-alfcl,1,Cambridge,,,1.0
+70083,70083.0,Andrew,Andrew - Red Line - Ashmont/Braintree,1,Ashmont/Braintree,42.330154,-71.057655,RapidTransit,,https://www.mbta.com/stops/place-andrw,level_-2_platform,0,place-andrw,1,Boston,,,1.0
+70093,70093.0,Ashmont,Ashmont - Red Line - Exit Only,,Exit Only,42.284508,-71.063833,RapidTransit,,https://www.mbta.com/stops/place-asmnl,level_-1_platform,0,place-asmnl,1,Boston,,,1.0
+70081,70081.0,Broadway,Broadway - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.342622,-71.056967,RapidTransit,,https://www.mbta.com/stops/place-brdwy,level_-2_platform,0,place-brdwy,1,Boston,,,1.0
+70105,70105.0,Braintree,Braintree - Red Line,,Red Line,42.207424,-71.001645,RapidTransit,,https://www.mbta.com/stops/place-brntn,level_1_red_platform,0,place-brntn,1,Braintree,,,1.0
+70073,70073.0,Charles/MGH,Charles/MGH - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.361187,-71.071505,RapidTransit,,https://www.mbta.com/stops/place-chmnl,level_1_platform,0,place-chmnl,1,Boston,,,1.0
+70069,70069.0,Central,Central - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.365304,-71.103621,RapidTransit,,https://www.mbta.com/stops/place-cntsq,level_-1_platform,0,place-cntsq,1,Cambridge,,,1.0
+70063,70063.0,Davis,Davis - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.39674,-71.121815,RapidTransit,,https://www.mbta.com/stops/place-davis,level_-2_platform,0,place-davis,1,Somerville,,,1.0
+70077,70077.0,Downtown Crossing,Downtown Crossing - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.355518,-71.060225,RapidTransit,,https://www.mbta.com/stops/place-dwnxg,level_-2_red_platform,0,place-dwnxg,1,Boston,,,1.0
+70089,70089.0,Fields Corner,Fields Corner - Red Line - Ashmont,,Ashmont,42.299993,-71.062021,RapidTransit,,https://www.mbta.com/stops/place-fldcr,level_1_platform,0,place-fldcr,1,Boston,,,1.0
+70067,70067.0,Harvard,Harvard - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.373362,-71.118956,RapidTransit,,https://www.mbta.com/stops/place-harsq,level_-2_southbound_platform,0,place-harsq,1,Cambridge,,,1.0
+70085,70085.0,JFK/UMass,JFK/UMass - Red Line - Ashmont,,Ashmont,42.320632,-71.052514,RapidTransit,,https://www.mbta.com/stops/place-jfk,level_0_red_platform,0,place-jfk,1,Boston,,,1.0
+70071,70071.0,Kendall/MIT,Kendall/MIT - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.362355,-71.085605,RapidTransit,,https://www.mbta.com/stops/place-knncl,level_-1_platform,0,place-knncl,1,Cambridge,,,1.0
+70097,70097.0,North Quincy,North Quincy - Red Line - Braintree,2,Braintree,42.27577,-71.030194,RapidTransit,,https://www.mbta.com/stops/place-nqncy,level_0_platform,0,place-nqncy,1,Quincy,,,1.0
+70075,70075.0,Park Street,Park Street - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.356395,-71.062424,RapidTransit,,https://www.mbta.com/stops/place-pktrm,level_-2_red_platform,0,place-pktrm,1,Boston,,,1.0
+70065,70065.0,Porter,Porter - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.3884,-71.119149,RapidTransit,,https://www.mbta.com/stops/place-portr,level_-3_southbound_platform,0,place-portr,1,Cambridge,,,1.0
+70103,70103.0,Quincy Adams,Quincy Adams - Red Line - Braintree,,Braintree,42.233391,-71.007153,RapidTransit,,https://www.mbta.com/stops/place-qamnl,level_1_platform,0,place-qamnl,1,Quincy,,,1.0
+70101,70101.0,Quincy Center,Quincy Center - Red Line - Braintree,2,Braintree,42.251809,-71.005409,RapidTransit,,https://www.mbta.com/stops/place-qnctr,level_-1_red_platform,0,place-qnctr,1,Quincy,,,1.0
+70087,70087.0,Savin Hill,Savin Hill - Red Line - Ashmont,,Ashmont,42.310603,-71.053678,RapidTransit,,https://www.mbta.com/stops/place-shmnl,level_0_platform,0,place-shmnl,1,Boston,,,1.0
+70091,70091.0,Shawmut,Shawmut - Red Line - Ashmont,,Ashmont,42.293126,-71.065738,RapidTransit,,https://www.mbta.com/stops/place-smmnl,level_-1_platform,0,place-smmnl,1,Boston,,,1.0
+70079,70079.0,South Station,South Station - Red Line - Ashmont/Braintree,,Ashmont/Braintree,42.352271,-71.055242,RapidTransit,,https://www.mbta.com/stops/place-sstat,level_-3_red_platform,0,place-sstat,1,Boston,,,1.0
+70099,70099.0,Wollaston,Wollaston - Red Line - Braintree,,Braintree,42.266762,-71.020542,RapidTransit,,https://www.mbta.com/stops/place-wlsta,level_1_platform,0,place-wlsta,1,Quincy,,,1.0
